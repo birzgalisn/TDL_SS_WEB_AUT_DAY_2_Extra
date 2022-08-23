@@ -1,0 +1,23 @@
+{
+  "name": "tdl_ss_web_aut_day_2_extra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "./node_modules/cypress/bin/cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birzgalisn/TDL_SS_WEB_AUT_DAY_2_Extra.git"
+  },
+  "author": "Niks Birzgalis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/birzgalisn/TDL_SS_WEB_AUT_DAY_2_Extra/issues"
+  },
+  "homepage": "https://github.com/birzgalisn/TDL_SS_WEB_AUT_DAY_2_Extra#readme",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}
