@@ -7,14 +7,6 @@ class KatalonSummaryPage extends BasePage {
     return cy.get("div.col-xs-offset-2");
   }
 
-  static get menu() {
-    return cy.get("#menu-toggle");
-  }
-
-  static get menuOptions() {
-    return cy.get(".sidebar-nav");
-  }
-
   static get message() {
     return cy.get(".col-sm-12 > p");
   }
